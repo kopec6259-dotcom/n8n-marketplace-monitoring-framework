@@ -70,3 +70,8 @@ Full workflow JSON and extended documentation available separately.
 
 <img width="511" height="257" alt="Zrzut ekranu 2026-02-26 174001" src="https://github.com/user-attachments/assets/4fe08f24-5db6-4417-a09a-402c0d2bcecc" />
 
+## 💼 Commercial Version
+
+The complete production-ready workflow JSON and extended setup documentation are available separately.
+
+👉 Full version: https://kopecster2.gumroad.com/l/zybrw
